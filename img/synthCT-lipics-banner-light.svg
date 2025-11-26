@@ -3,8 +3,8 @@
 
 <svg
    width="1920"
-   height="360"
-   viewBox="0 0 480 90"
+   height="180"
+   viewBox="0 0 480 45"
    version="1.1"
    id="svg5"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -84,7 +84,7 @@
        id="layer13"
        style="display:inline">
       <rect
-         style="display:inline;fill:none;stroke:#003e33;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5.85;stroke-opacity:1;paint-order:fill markers stroke"
+         style="display:none;fill:none;stroke:#003e33;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5.85;stroke-opacity:1;paint-order:fill markers stroke"
          id="rect1185"
          width="475"
          height="85"
@@ -99,7 +99,7 @@
     <g
        id="g1173"
        transform="matrix(0.24855464,0,0,0.24855464,7.5433615,11.445122)"
-       style="display:inline">
+       style="display:none">
       <g
          id="g1075"
          style="display:inline">
@@ -359,7 +359,7 @@
        style="display:none">
       <g
          id="g38507"
-         transform="translate(0,1.5)"
+         transform="matrix(1.7266975,0,0,1.7266975,-28.490198,-32.701396)"
          style="display:inline">
         <g
            aria-label="ar   iv"
@@ -398,7 +398,7 @@
       <g
          id="layer4"
          style="display:inline"
-         transform="matrix(0.24855464,0,0,0.24855464,7.5433615,11.445122)">
+         transform="matrix(0.24264235,0,0,0.24821472,-8.671996,-12.125456)">
         <g
            id="layer5">
           <g
@@ -506,60 +506,156 @@
      id="layer1"
      style="display:none">
     <g
-       id="layer6"
-       style="display:inline">
+       id="g5101"
+       style="display:none">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1874px;line-height:1.15;font-family:Dearest;-inkscape-font-specification:Dearest;fill:none;stroke:#000000;stroke-width:6.07195;stroke-linecap:round;stroke-dasharray:145.727, 6.07195;stroke-dashoffset:7.89354;paint-order:fill markers stroke"
-         x="119.7841"
-         y="37.732521"
-         id="text2621"><tspan
-           id="tspan2619"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dearest;-inkscape-font-specification:Dearest;fill:#003e33;fill-opacity:1;stroke:none;stroke-width:6.07195"
-           x="119.7841"
-           y="37.732521">June 2025 Version</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1874px;line-height:1.15;font-family:Dearest;-inkscape-font-specification:Dearest;fill:#ce8a00;fill-opacity:1;stroke:#000000;stroke-width:6.07195;stroke-linecap:round;stroke-dasharray:145.727, 6.07195;stroke-dashoffset:7.89354;paint-order:fill markers stroke"
+         x="79.784103"
+         y="24.829523"
+         id="text5093"><tspan
+           id="tspan5091"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ce8a00;fill-opacity:1;stroke:none;stroke-width:6.07195"
+           x="79.784103"
+           y="24.829523">June 2025 Version</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.7825px;line-height:1.15;font-family:Dearest;-inkscape-font-specification:Dearest;fill:#003e33;fill-opacity:1;stroke:none;stroke-width:4.41844;stroke-linecap:round;stroke-dasharray:106.043, 4.41844;stroke-dashoffset:5.74398;paint-order:fill markers stroke"
-         x="119.33839"
-         y="58.951939"
-         id="text23717"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.7825px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:4.41844"
-           x="119.33839"
-           y="58.951939"
-           id="tspan27359">Click here to read the version of the thesis submitted</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.7825px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:4.41844"
-           x="119.33839"
-           y="72.924797"
-           id="tspan33855">05 June 2025</tspan></text>
+         x="79.338387"
+         y="39.824253"
+         id="text5099"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.7825px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ce8a00;fill-opacity:1;stroke-width:4.41844"
+           x="79.338387"
+           y="39.824253"
+           id="tspan5097">Click here to read the version of the thesis submitted 05 June 2025</tspan></text>
     </g>
     <g
-       id="g15467"
+       id="g29569"
        style="display:inline">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1874px;line-height:1.15;font-family:Dearest;-inkscape-font-specification:Dearest;fill:none;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
-         x="119.7841"
-         y="37.732521"
-         id="text15457"><tspan
-           id="tspan15455"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dearest;-inkscape-font-specification:Dearest;fill:#ce8a00;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-           x="119.7841"
-           y="37.732521">June 2025 Version</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1874px;line-height:1.15;font-family:Dearest;-inkscape-font-specification:Dearest;fill:#ce8a00;fill-opacity:1;stroke:#000000;stroke-width:6.07195;stroke-linecap:round;stroke-dasharray:145.727, 6.07195;stroke-dashoffset:7.89354;paint-order:fill markers stroke"
+         x="79.784103"
+         y="24.829523"
+         id="text29563"><tspan
+           id="tspan29561"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#003e33;fill-opacity:1;stroke:none;stroke-width:6.07195"
+           x="79.784103"
+           y="24.829523">June 2025 Version</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.7825px;line-height:1.15;font-family:Dearest;-inkscape-font-specification:Dearest;fill:#ce8a00;fill-opacity:1;stroke:none;stroke-width:4.41844;stroke-linecap:round;stroke-dasharray:106.043, 4.41844;stroke-dashoffset:5.74398;paint-order:fill markers stroke"
-         x="119.33839"
-         y="58.951939"
-         id="text15463"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.7825px;line-height:1.15;font-family:Dearest;-inkscape-font-specification:Dearest;fill:#003e33;fill-opacity:1;stroke:none;stroke-width:4.41844;stroke-linecap:round;stroke-dasharray:106.043, 4.41844;stroke-dashoffset:5.74398;paint-order:fill markers stroke"
+         x="79.338387"
+         y="39.824253"
+         id="text29567"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.7825px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#003e33;fill-opacity:1;stroke-width:4.41844"
+           x="79.338387"
+           y="39.824253"
+           id="tspan29565">Click here to read the version of the thesis submitted 05 June 2025</tspan></text>
+    </g>
+  </g>
+  <g
+     id="g34095"
+     style="display:none">
+    <g
+       id="g34093"
+       style="display:none">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1874px;line-height:1.15;font-family:Dearest;-inkscape-font-specification:Dearest;fill:#ce8a00;fill-opacity:1;stroke:#000000;stroke-width:6.07195;stroke-linecap:round;stroke-dasharray:145.727, 6.07195;stroke-dashoffset:7.89354;paint-order:fill markers stroke"
+         x="79.784103"
+         y="24.829523"
+         id="text34087"><tspan
+           id="tspan34085"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#003e33;fill-opacity:1;stroke:none;stroke-width:6.07195"
+           x="79.784103"
+           y="24.829523">Final Version (November 2025)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.7825px;line-height:1.15;font-family:Dearest;-inkscape-font-specification:Dearest;fill:#003e33;fill-opacity:1;stroke:none;stroke-width:4.41844;stroke-linecap:round;stroke-dasharray:106.043, 4.41844;stroke-dashoffset:5.74398;paint-order:fill markers stroke"
+         x="79.338387"
+         y="39.824253"
+         id="text34091"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.7825px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#003e33;fill-opacity:1;stroke-width:4.41844"
+           x="79.338387"
+           y="39.824253"
+           id="tspan34089">Click here to read the final version of the, submitted 10 November 2025</tspan></text>
+    </g>
+    <g
+       id="g48202"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1874px;line-height:1.15;font-family:Dearest;-inkscape-font-specification:Dearest;fill:#ce8a00;fill-opacity:1;stroke:#000000;stroke-width:6.07195;stroke-linecap:round;stroke-dasharray:145.727, 6.07195;stroke-dashoffset:7.89354;paint-order:fill markers stroke"
+         x="79.784103"
+         y="24.829523"
+         id="text48196"><tspan
+           id="tspan48194"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ce8a00;fill-opacity:1;stroke:none;stroke-width:6.07195"
+           x="79.784103"
+           y="24.829523">Final Version (November 2025)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.7825px;line-height:1.15;font-family:Dearest;-inkscape-font-specification:Dearest;fill:#003e33;fill-opacity:1;stroke:none;stroke-width:4.41844;stroke-linecap:round;stroke-dasharray:106.043, 4.41844;stroke-dashoffset:5.74398;paint-order:fill markers stroke"
+         x="79.338387"
+         y="39.824253"
+         id="text48200"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.7825px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ce8a00;fill-opacity:1;stroke-width:4.41844"
-           x="119.33839"
-           y="58.951939"
-           id="tspan15459">Click here to read the version of the thesis submitted</tspan><tspan
+           x="79.338387"
+           y="39.824253"
+           id="tspan48198">Click here to read the final version of the, submitted 10 November 2025</tspan></text>
+    </g>
+  </g>
+  <g
+     id="g50913"
+     style="display:inline">
+    <g
+       id="g50901"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1874px;line-height:1.15;font-family:Dearest;-inkscape-font-specification:Dearest;fill:#ce8a00;fill-opacity:1;stroke:#000000;stroke-width:6.07195;stroke-linecap:round;stroke-dasharray:145.727, 6.07195;stroke-dashoffset:7.89354;paint-order:fill markers stroke"
+         x="79.784103"
+         y="24.829523"
+         id="text50895"><tspan
+           id="tspan50893"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#003e33;fill-opacity:1;stroke:none;stroke-width:6.07195"
+           x="79.784103"
+           y="24.829523">Published Version</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.7825px;line-height:1.15;font-family:Dearest;-inkscape-font-specification:Dearest;fill:#003e33;fill-opacity:1;stroke:none;stroke-width:4.41844;stroke-linecap:round;stroke-dasharray:106.043, 4.41844;stroke-dashoffset:5.74398;paint-order:fill markers stroke"
+         x="79.338387"
+         y="39.824253"
+         id="text50899"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.7825px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#003e33;fill-opacity:1;stroke-width:4.41844"
+           x="79.338387"
+           y="39.824253"
+           id="tspan50897">&quot;Synthetic 1-Categories in Directed Type Theory&quot;</tspan></text>
+    </g>
+    <g
+       id="g50911"
+       style="display:none">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1874px;line-height:1.15;font-family:Dearest;-inkscape-font-specification:Dearest;fill:#ce8a00;fill-opacity:1;stroke:#000000;stroke-width:6.07195;stroke-linecap:round;stroke-dasharray:145.727, 6.07195;stroke-dashoffset:7.89354;paint-order:fill markers stroke"
+         x="79.784103"
+         y="24.829523"
+         id="text50905"><tspan
+           id="tspan50903"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ce8a00;fill-opacity:1;stroke:none;stroke-width:6.07195"
+           x="79.784103"
+           y="24.829523">Final Version (November 2025)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.7825px;line-height:1.15;font-family:Dearest;-inkscape-font-specification:Dearest;fill:#003e33;fill-opacity:1;stroke:none;stroke-width:4.41844;stroke-linecap:round;stroke-dasharray:106.043, 4.41844;stroke-dashoffset:5.74398;paint-order:fill markers stroke"
+         x="79.338387"
+         y="39.824253"
+         id="text50909"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.7825px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ce8a00;fill-opacity:1;stroke-width:4.41844"
-           x="119.33839"
-           y="72.924797"
-           id="tspan15461">05 June 2025</tspan></text>
+           x="79.338387"
+           y="39.824253"
+           id="tspan50907">Click here to read the final version of the, submitted 10 November 2025</tspan></text>
     </g>
   </g>
   <g
@@ -567,7 +663,7 @@
      style="display:none">
     <g
        id="g1187"
-       style="display:none">
+       style="display:inline">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1874px;line-height:1.15;font-family:Dearest;-inkscape-font-specification:Dearest;fill:none;stroke:#000000;stroke-width:6.07195;stroke-linecap:round;stroke-dasharray:145.727, 6.07195;stroke-dashoffset:7.89354;paint-order:fill markers stroke"
@@ -595,7 +691,7 @@
     </g>
     <g
        id="g1201"
-       style="display:inline">
+       style="display:none">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1874px;line-height:1.15;font-family:Dearest;-inkscape-font-specification:Dearest;fill:none;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
@@ -624,10 +720,10 @@
   </g>
   <g
      id="g57815"
-     style="display:inline">
+     style="display:none">
     <g
        id="g57801"
-       style="display:inline">
+       style="display:none">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1874px;line-height:1.15;font-family:Dearest;-inkscape-font-specification:Dearest;fill:none;stroke:#000000;stroke-width:6.07195;stroke-linecap:round;stroke-dasharray:145.727, 6.07195;stroke-dashoffset:7.89354;paint-order:fill markers stroke"
@@ -655,31 +751,31 @@
     </g>
     <g
        id="g57813"
-       style="display:none">
+       style="display:inline">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1874px;line-height:1.15;font-family:Dearest;-inkscape-font-specification:Dearest;fill:none;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
-         x="119.7841"
-         y="37.732521"
+         x="107.85081"
+         y="104.47178"
          id="text57805"><tspan
            id="tspan57803"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dearest;-inkscape-font-specification:Dearest;fill:#ce8a00;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-           x="119.7841"
-           y="37.732521">Published Version</tspan></text>
+           x="107.85081"
+           y="104.47178">Published Version</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.7825px;line-height:1.15;font-family:Dearest;-inkscape-font-specification:Dearest;fill:#ce8a00;fill-opacity:1;stroke:none;stroke-width:4.41844;stroke-linecap:round;stroke-dasharray:106.043, 4.41844;stroke-dashoffset:5.74398;paint-order:fill markers stroke"
-         x="119.33839"
-         y="58.951939"
+         x="94.912254"
+         y="124.66969"
          id="text57811"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.7825px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ce8a00;fill-opacity:1;stroke-width:4.41844"
-           x="119.33839"
-           y="58.951939"
-           id="tspan57807">Click here to read the official published version of &quot;Synthetic</tspan><tspan
+           x="94.912254"
+           y="124.66969"
+           id="tspan57807">Click here to read the official published version of </tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.7825px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ce8a00;fill-opacity:1;stroke-width:4.41844"
-           x="119.33839"
-           y="72.924797"
-           id="tspan57809">1-Categories in Directed Type Theory&quot; on the arXiv</tspan></text>
+           x="94.912254"
+           y="138.64255"
+           id="tspan57809">&quot;Synthetic 1-Categories in Directed Type Theory&quot;</tspan></text>
     </g>
   </g>
   <metadata
